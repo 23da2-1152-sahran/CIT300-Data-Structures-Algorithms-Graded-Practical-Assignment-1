@@ -22,26 +22,20 @@ The project demonstrates the following data structures:
 ## Main Features
 
 ### Student Management
-
 - Add Student Record
 - Update Student Record
 - Delete Student Record
-- Search Student Record
 - Display All Student Records
 
 ### Service Management
-
 - Add Service Request to Queue
 - Process Next Service Request
-- Display Recent Actions using Stack
 
 ### Student Searching and Organization
-
 - Display Students using BST
-- Search Students using Hashing
+- Search Student using Hashing
 
 ### Campus Route Management
-
 - Add Campus Location
 - Remove Campus Location
 - Add Campus Connection/Road
@@ -53,15 +47,19 @@ The project demonstrates the following data structures:
 
 | No. | Name | Student ID | Responsibility | Individual Contribution |
 |-----|------|------------|----------------|-------------------------|
-| 1 | BM.SAHRAN | 23DA2-1152 | Project Leader / Integration / Linked List | Implemented Student Management and Linked List. Added Add, Update, Delete, Search, and Display operations. |
-| 2 | M.L.F.NUFAISA | 23DA2-1115 | Stack / Queue | Implemented Queue for Student Service Requests and Stack for Recent Actions. Tested FIFO and LIFO operations. |
-| 3 | IF.ASMIJA BANU | 23DA2-0636 | Graph / BFS / DFS | Implemented Campus Graph. Added Campus Locations and Connections. Implemented BFS/DFS traversal and tested the Graph component. |
-| 4 | J.ABINAYA | 23DA2-0901 | BST / Hashing | Implemented BST for Student ID organization and Hash Table for Student ID searching. Tested searching functionality. |
+| 1 | BM.SAHRAN | 23DA2-1152 | Project Leader / Integration /Linked List | Implemented Student Management,Implemented Linked List,Added Add, Update, Delete, Search and Display operations|
+
+| 2 | M.L.F.NUFAISA | 23DA2-1115 |  Stack / Queue| - Implemented Queue for Service Requests,  Implemented Stack for Recent Actions,Tested FIFO and LIFO operations |
+
+| 3 | J.ABINAYA | 23DA2-0901 | Graph / BFS / DFS | - Implemented Campus Graph,Added Campus Locations and Connections,Implemented  |
+
+| 4 | IF.ASMIJA BANU| 23D2A2-0636 | BST / Hashing  | - Implemented BST/AVL for Student ID organization,Implemented Hash Table for Student ID searching,Tested searching functionality |
+
 
 ## Technologies Used
 
 - Java
-- Data Structures
+- Java Collections / Data Structures
 - GitHub
 - Visual Studio Code
 
@@ -77,4 +75,3 @@ BSTree.java
 HashTable.java
 CampusGraph.java
 README.md
-.gitignore
